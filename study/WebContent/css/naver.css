@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+body {
+	background-color: #3b3B3d;
+	font-family: 견명조;
+}
+
+#table{}
+.green{font: bold; color: "green";}
+#input{colspan: 2; height: 30px;}

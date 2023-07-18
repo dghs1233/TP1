@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+	font-size: 10pt;
+	font-family: 궁서;
+}
+
+.c01 {
+	color: orange;
+	font-size: 15pt;	
+}
+
+.c02 {
+	color: skyblue;
+	font-size: 7pt;	
+}
